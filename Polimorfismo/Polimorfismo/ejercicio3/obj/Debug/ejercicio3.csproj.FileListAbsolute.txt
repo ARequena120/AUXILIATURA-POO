@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio3\bin\Debug\ejercicio3.exe
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio3\bin\Debug\ejercicio3.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio3\obj\Debug\ejercicio3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio3\obj\Debug\ejercicio3.exe
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio3\obj\Debug\ejercicio3.pdb

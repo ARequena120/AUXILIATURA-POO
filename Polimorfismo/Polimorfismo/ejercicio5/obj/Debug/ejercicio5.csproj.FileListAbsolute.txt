@@ -1,0 +1,5 @@
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio5\obj\Debug\ejercicio5.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\User\Documents\SharpDevelop Projects\Polimorfismo\ejercicio5\obj\Debug\ejercicio5.pdb
